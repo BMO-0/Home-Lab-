@@ -40,8 +40,5 @@ The server VM Settings
 
 #<img width="1041" height="802" alt="image" src="https://github.com/user-attachments/assets/0e01655d-1700-4bcd-a9b9-065d84665630" />
 
-## Lessons Learned
-
-I learned how to set up a virtual machine 
 
   
