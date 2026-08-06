@@ -1,1 +1,47 @@
+# VirtualBox  Virtual Machine (VM) Setup for Windows sever
 
+## Objective
+Set up the VM to install Windows server 2022
+
+## Environment
+
+VM Name:
+
+DC01
+
+Operating System:
+
+Windows Server 2022 Evaluation 
+
+Base Memory: 4096 MB
+CPU: 2
+Disk: 25 GB Dynamic 
+
+
+## Steps
+1.Click new in Oracle VirtualBox Manager 
+2. Enter these details:
+  Name-DC01
+  OS ISO-Windows Server 2022 Evaluation ISO Image 
+  Base Memory: 4096 MB
+  Disk: 25 GB Dynamic 
+3.Click  finish
+4. Install Windows Server Desktop Experience
+5.When installation finishes rename the computer -DC01
+
+
+## Result
+
+A VM is made with Windows Server 2022 Evaluation installed 
+
+## Screenshot
+The server VM Settings
+
+
+#<img width="1041" height="802" alt="image" src="https://github.com/user-attachments/assets/0e01655d-1700-4bcd-a9b9-065d84665630" />
+
+## Lessons Learned
+
+I learned how to set up a virtual machine 
+
+  
