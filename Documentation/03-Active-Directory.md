@@ -38,7 +38,7 @@ The services installed:
 
 ## Screenshot
 
-DNs Domain controller
+DNS Domain controller
 <img width="902" height="727" alt="image" src="https://github.com/user-attachments/assets/5e7a50e2-4650-4728-83fb-f388471fceac" />
 
 Install Active Directory  
