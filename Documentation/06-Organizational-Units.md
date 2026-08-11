@@ -14,7 +14,7 @@ Domain - project.local
 
 1.Click tools on the server manager.
 2.Click Active Directory User and Computer .
-3.On project.local create Created the following Security groups OUs: IT, HR, Finance, Sales, Computers, Servers, Project
+3.On project.local create Created the following Security groups OUs: IT, HR, Finance, Sales, Computers, Servers, Project.
   
 ----
 
