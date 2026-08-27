@@ -8,9 +8,9 @@ Install active directory domain Services and configure the server as a Domain Co
 
 ## Environment
 
-Server Name - DC01
-Operating System - Windows Server 2022 Evaluation
-Domain - project.local
+Server Name: DC01
+Operating System:  Windows Server 2022 Evaluation
+Domain:  project.local
 
 ----
 
