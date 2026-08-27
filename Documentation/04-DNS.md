@@ -14,8 +14,8 @@ Domain - project.local
 2.Go to forward lookup zones.
 3.Click on project.local.
 4.Add records:
-  fileserver 192.168.1.10
-  printer 192.168.1.20
+  fileserver 192.168.1.10,
+  printer 192.168.1.20,
   internet 192.168.1.30
 
 ## Result
