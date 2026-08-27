@@ -10,7 +10,7 @@ Operating System - Windows Server 2022 Evaluation
 Domain - project.local
 
 ## Steps
-1.Open DNS Manager 
+1.Open DNS Manager.
 2.Go to forward lookup zones
 3.Click on project.local
 4.Add records:
