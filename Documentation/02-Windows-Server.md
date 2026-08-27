@@ -5,12 +5,8 @@
 Setting up the server by configuring the network 
 -------
 ## Environment
-Server Name:
-DC01
-
-Operating System:
-Windows Server 2022 Evaluation
-
+Server Name: DC01
+Operating System: Windows Server 2022 Evaluation
 
 
 ## Steps 
