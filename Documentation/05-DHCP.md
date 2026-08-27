@@ -17,9 +17,9 @@ Domain - project.local
 2. Click add Roles
 3. Install DHCP Server and Complete DHCP configuration
 4. Create a Scope:
-   name - Office Network
-   range 192.168.1.100 to 162.168.1.150
-   Subnet- 255.255.255.0
+   name - Office Network,
+   range 192.168.1.100 to 162.168.1.150,
+   Subnet- 255.255.255.0,
    DNS-192.168.1.10
 5. Active the scope
 
