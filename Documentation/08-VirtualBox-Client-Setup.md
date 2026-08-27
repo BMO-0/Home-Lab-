@@ -5,9 +5,8 @@ Set up the VM to install Windows 11
 
 ## Environment
 
-VM Name - LabClient01
-
-Operating System -  Windows 11
+VM Name: LabClient01
+Operating System: Windows 11
 Base Memory: 4096 MB
 CPU: 2
 Disk: 25 GB Dynamic 
@@ -34,8 +33,7 @@ The server VM Settings
 
 <img width="1057" height="812" alt="image" src="https://github.com/user-attachments/assets/2c96540a-2f78-4db5-9ece-752d864ec07f" />
 
+## Troubleshoot
 
-
-
-
+Like when making the 1st VM unchecked the Pre-allocate Full Size setting so the disks are dynamically allocated to fit the amount of space I have on my laptop when making the VM.
 
