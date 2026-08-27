@@ -14,15 +14,15 @@ Disk: 25 GB Dynamic
 
 
 ## Steps
-1.Click new in Oracle VirtualBox Manager 
+1. Click new in Oracle VirtualBox Manager 
 2. Enter these details:
   Name- LabClient01
   OS ISO-Windows 11 ISO Image 
   Base Memory: 4096 MB
   Disk: 25 GB Dynamic 
-3.Click  finish
+3. Click  finish
 4. Install Windows 
-5.When installation finishes rename the computer -LabClinet1
+5. When installation finishes rename the computer -LabClinet1
 
 ## Result
 
