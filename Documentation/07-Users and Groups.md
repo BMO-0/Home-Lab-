@@ -14,10 +14,12 @@ Domain - project.local
 ----
 
 ## Steps
-1.In Active Directory User and Computer, project.local click users
+1.In Active Directory User and Computer,project.local click users.
 2.Add around 10+ new users to the domain.
 3.Make these 4 Security Groups (IT Support, HR, Finance, Sales).
 4.Assign an appropriate number of users to each group.
+
+----
 
 ### Screenshot
 <img width="1010" height="802" alt="image" src="https://github.com/user-attachments/assets/aae6c1f5-759b-4200-828b-763959494738" />
